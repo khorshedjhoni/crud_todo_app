@@ -5,6 +5,11 @@ A simple **console-based Todo application** built using **Node.js and MySQL**, f
 This project demonstrates real backend structure, authentication flow, and CRUD operations in a CLI environment.
 
 ---
+## Project Workflow Video:
+
+video link: https://drive.google.com/drive/u/0/folders/1bFFm0b_YzuJ5d7SQNewqXBMraYgMAhSW
+
+---
 
 # 🚀 Features
 
