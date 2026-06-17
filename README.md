@@ -28,4 +28,30 @@ This project demonstrates real backend structure, authentication flow, and CRUD 
 
 ---
 
+## 📁 Project Structure
+
+```text
+Crud Todo App
+|
++-- controllers
+|   +-- authController.js
+|   +-- taskController.js
+|
++-- services
+|   +-- authService.js
+|   +-- taskService.js
+|
++-- repositories
+|   +-- userRepository.js
+|   +-- taskRepository.js
+|
++-- config
+|   +-- db.js
+|
++-- utils
+|   +-- validation.js
+|
++-- app.js
+```
+
 
