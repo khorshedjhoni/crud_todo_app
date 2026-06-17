@@ -93,5 +93,6 @@ Crud Todo App
 
 1️⃣ Clone project
 
-git clone https://github.com/your-username/cli-todo-app.git
+git clone [https://github.com/your-username/cli-todo-app.git](https://github.com/khorshedjhoni/crud_todo_app)
+
 cd crud-todo-app
