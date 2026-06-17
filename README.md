@@ -93,6 +93,25 @@ Crud Todo App
 
 1️⃣ Clone project
 
-git clone [https://github.com/your-username/cli-todo-app.git](https://github.com/khorshedjhoni/crud_todo_app)
+- git clone [https://github.com/your-username/cli-todo-app.git](https://github.com/khorshedjhoni/crud_todo_app)
 
-cd crud-todo-app
+- cd crud-todo-app
+
+2️⃣ Install dependencies
+
+- npm install
+
+3️⃣ Run project
+
+- npm start
+  
+---
+
+## 💡 Key Learning Outcomes
+
+- Node.js modular architecture
+- MySQL integration using mysql2
+- Async/await handling
+- CLI input handling using readline-sync
+- Clean separation of concerns (MVC-like structure)
+- Real-world CRUD flow design
