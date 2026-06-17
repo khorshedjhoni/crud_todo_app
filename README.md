@@ -55,3 +55,37 @@ Crud Todo App
 ```
 
 
+
+---
+
+# 🔄 System Flow
+
+## 🔐 Authentication Flow
+
+🖥️ User Input (CLI)  
+   ↓  
+🔐 AuthController  
+   ↓  
+⚙️ AuthService (Validation + Business Logic)  
+   ↓  
+📦 UserRepository  
+   ↓  
+🗄️ MySQL Database  
+
+
+---
+
+## 📝 Task Flow
+
+🖥️ User Input (CLI)  
+   ↓  
+📝 TaskController  
+   ↓  
+⚙️ TaskService (Business Rules)  
+   ↓  
+📦 TaskRepository (SQL Queries)  
+   ↓  
+🗄️ MySQL Database  
+
+
+
