@@ -87,5 +87,11 @@ Crud Todo App
    ↓  
 🗄️ MySQL Database  
 
+---
 
+## ⚙️ Installation & Setup
 
+1️⃣ Clone project
+
+git clone https://github.com/your-username/cli-todo-app.git
+cd crud-todo-app
